@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1761829312 source:c:\users\pc\documents\3 eme annee\c++\tp10c++\gestion d’un carnet d’adresses (niveau avancé)\main.cpp
+	<iostream>
+	<string>
+	<limits>
+
